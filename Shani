@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @shanimalik90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- #----------------------------[IMPORT/MODULE]-----------------------------------#
+- import requests,bs4,json,os,sys,uuid,random,datetime,time,re
+- import urllib3,rich,base64
+- os.system('xdg-open https://www.facebook.com/shanimalik015
+- from time import localtime as lt
+- from rich.text import Text as tekz
+- from rich import pretty
 
-<!---
-shanimalik90/shanimalik90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print('\n \033[1;92m[✓]\r\r\033[1;92m WELCOME. TO SHANI BRAND T00L ....!')
